@@ -1,0 +1,24 @@
+product_id,product_name,category,unit_cost,list_price
+1,Mineral Water 500ml,Beverages,153.29,67.25
+2,Soda 500ml,Beverages,85.88,124.73
+3,Mango Juice 1L,Beverages,171.25,256.24
+4,Tea 250g,Beverages,200.05,85.21
+5,Instant Coffee 100g,Beverages,113.06,68.64
+6,Maize Flour 2kg,Food,75.45,206.55
+7,Rice 2kg,Food,39.91,117.66
+8,Cooking Oil 1L,Food,155.23,218.03
+9,Sugar 2kg,Food,75.78,230.89
+10,Beans 1kg,Food,184.74,61.88
+11,Bread 400g,Food,184.08,262.46
+12,Bathing Soap,Personal Care,97.95,105.09
+13,Toothpaste 100ml,Personal Care,212.08,157.61
+14,Body Lotion 200ml,Personal Care,52.16,88.05
+15,Tissue Pack,Personal Care,191.79,235.08
+16,Dishwashing Liquid,Household,184.32,271.62
+17,Laundry Detergent 1kg,Household,134.2,342.2
+18,Bleach 1L,Household,105.03,220.09
+19,Batteries AA,Household,188.44,239.37
+20,Potato Crisps,Snacks,194.42,227.43
+21,Biscuits Pack,Snacks,165.35,73.29
+22,Chocolate Bar,Snacks,77.16,143.92
+23,Peanuts 100g,Snacks,49.76,127.51
